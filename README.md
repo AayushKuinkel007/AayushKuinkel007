@@ -1,6 +1,6 @@
 # Hi, I'm Aayush 👋
 
-💡 **MERN Stack Full-Stack Developer**  
+💡 **Full-Stack Developer**  
 I love building scalable web applications and crafting strong **brand visual presence through impactful websites**.
 
 ---
@@ -40,3 +40,4 @@ I love building scalable web applications and crafting strong **brand visual pre
 ## 📫 Let’s Connect
 🤝 Open to collaboration, open-source, and meaningful projects  
 ✨ Let’s build something that brings brands into light
+
